@@ -3,4 +3,4 @@ You will learn about object detection using the very powerful YOLO model. Many o
 
 Demos:
 
-<img src="/fram4.jpg" width="400px" height="300px" />
+<img src="good/frame4.jpg" width="400px" height="300px" />
